@@ -7,3 +7,5 @@ Data related to bike sharing systems in Chicago, New York and Washington, D.C., 
 Bike_Share_Analysis-zh.ipynb is code file.
 
 Bike_Share_Analysis-zh.html is web file.
+
+Bike_Share_Analysis-zh-md文档.zip includes all images in this project.
