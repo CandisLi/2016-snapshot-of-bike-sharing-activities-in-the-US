@@ -1,9 +1,17 @@
 # 2016-snapshot-of-bike-sharing-activities-in-the-US
 
-Use Python to show sharing bike in the US in 2016.
+过去十年里，世界各城市的共享单车系统不仅不断增多，也越来越受人们欢迎。用户可借助共享单车系统来租赁单车，进行通常在 30 分钟以内的短途骑行。信息科技还带来了大量数据，有了这些数据，我们就能研究共享单车系统的使用情况。
 
-Data related to bike sharing systems in Chicago, New York and Washington, D.C., this 3 datasets sre stored in 'data' folders.
+本项目中将进行探索性数据分析。所需分析的数据源自 Motivate，这是一家为美国诸多大城市提供共享单车系统的供应商。本项目将比较三大城市：纽约市、芝加哥和华盛顿特区的系统使用情况，并观察每个系统的长期注册用户和短期临时用户之间有无区别。
 
-Bike_Share_Analysis-zh.ipynb is code file.
+本项目包括提出问题、数据收集和整理、探索性数据分析、自主分析、总结等常规数据分析过程。
 
-Bike_Share_Analysis-zh-md文档.zip includes all images in this project.
+本项目使用Python，运行环境是Jupyter Notebook。
+
+以下是对各文件的介绍：
+
+Bike_Share_Analysis-zh.ipynb：包含项目所有过程的代码文件。
+
+Bike_Share_Analysis-zh-md文档.zip：包含项目可视化部分的所有图片。
+
+Data file: 包含纽约市、芝加哥和华盛顿特区的单车数据。
